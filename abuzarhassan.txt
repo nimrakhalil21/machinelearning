@@ -1,0 +1,9 @@
+AOA
+TO colaborate firstly we should have access to the project
+1.git clone https://github.com/TouseefDataScientist/machinelearning.git
+2. make changes to the file and save it
+3. check status using command ->git status
+4. you notified that you have make change to this file
+5. add your files 
+6. commit
+7 git push origin main // dont need to give link/origin
